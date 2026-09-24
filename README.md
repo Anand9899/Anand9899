@@ -118,7 +118,7 @@
 ## GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anand9899&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anand9899&layout=compact&hide=typescript" alt="Top Langs" />
 </p>
 
 <p align="left">
