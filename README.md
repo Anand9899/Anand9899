@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anand Kumar Mishra
 ## Aspiring Full Stack .NET Developer skilled in ASP.NET Core, C#, Web APIs, and MVC Architecture.
 
-<img align="right" alt="coding" width="400px" src="developer_skills.svg" />
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/54101509/214411251-5f098de5-52e5-4a1f-8edb-514ff09b7a06.gif" />
 
 <p align="">
   <img src="https://komarev.com/ghpvc/?username=Anand9899&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
