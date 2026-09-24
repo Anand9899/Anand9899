@@ -17,7 +17,7 @@
 
 ### 🤝 I'm open to entry-level roles & opportunities as a **Full Stack .NET Developer**
 
-### 👨‍💻 Check out my projects on [Portfolio](https://github.com/Anand9899/Portfolio)
+### 👨‍💻 Check out my projects on [Portfolio](https://portfolio-anand9899.vercel.app/)
 
 ### 💬 Feel free to ask me about **C#**, **ASP.NET Core**, **Web API**, **ASP.NET MVC**, **SQL Server**, **Bootstrap**, **JavaScript**
 
@@ -99,6 +99,9 @@
 ## Connect with me:
 
 <p align="left">
+  <a href="https://portfolio-anand9899.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/anand-kumar-mishra/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
