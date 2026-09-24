@@ -25,25 +25,20 @@
 
 ---
 
-## Connect with me:
+## Projects:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anand-kumar-mishra/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anandmishra02.com@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Anand9899" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/its_anand_kashyap/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/919576989908" target="blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+### 🛒 [E-Commerce Web Application](https://github.com/Anand9899/E-Commerce)
+- Developed a full-stack e-commerce web application using **ASP.NET Core 8**, **C#**, and **Entity Framework Core**.
+- Implemented user authentication, role-based authorization, product management, shopping cart, and wishlist functionalities.
+- Designed responsive UI using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
+- Integrated **SQL Server** database with Entity Framework Core for efficient CRUD operations and data management.
+- Applied **MVC and layered architecture** concepts to maintain clean, scalable, and maintainable code structure.
+
+### 🎮 [Simon Game](https://github.com/Anand9899/Simon-Game)
+- Developed an interactive Simon Game using **HTML**, **CSS**, and **JavaScript**.
+- Implemented random color sequence generation and user input validation for gameplay.
+- Applied **DOM Manipulation** and **Event Handling** to create an interactive user experience.
+- Designed a responsive and visually engaging interface with level progression and game-over functionality.
 
 ---
 
@@ -101,20 +96,25 @@
 
 ---
 
-## Projects:
+## Connect with me:
 
-### 🛒 [E-Commerce Web Application](https://github.com/Anand9899/E-Commerce)
-- Developed a full-stack e-commerce web application using **ASP.NET Core 8**, **C#**, and **Entity Framework Core**.
-- Implemented user authentication, role-based authorization, product management, shopping cart, and wishlist functionalities.
-- Designed responsive UI using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
-- Integrated **SQL Server** database with Entity Framework Core for efficient CRUD operations and data management.
-- Applied **MVC and layered architecture** concepts to maintain clean, scalable, and maintainable code structure.
-
-### 🎮 [Simon Game](https://github.com/Anand9899/Simon-Game)
-- Developed an interactive Simon Game using **HTML**, **CSS**, and **JavaScript**.
-- Implemented random color sequence generation and user input validation for gameplay.
-- Applied **DOM Manipulation** and **Event Handling** to create an interactive user experience.
-- Designed a responsive and visually engaging interface with level progression and game-over functionality.
+<p align="left">
+  <a href="https://www.linkedin.com/in/anand-kumar-mishra/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anandmishra02.com@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Anand9899" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/its_anand_kashyap/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/919576989908" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
