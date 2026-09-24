@@ -116,8 +116,17 @@
 ---
 
 ## GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Anand9899&show_icons=true&locale=en&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anand9899&show_icons=true&locale=en)
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anand9899&layout=compact" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anand9899&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Anand9899" alt="GitHub Streak" />
+</p>
 
 ---
