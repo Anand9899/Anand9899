@@ -1,5 +1,5 @@
 # Hi 👋, I'm Anand Kumar Mishra
-## A passionate Full Stack .NET Developer with experience in ASP.NET Core, C#, Web APIs, and MVC Architecture.
+## Aspiring Full Stack .NET Developer skilled in ASP.NET Core, C#, Web APIs, and MVC Architecture.
 
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/54101509/214411251-5f098de5-52e5-4a1f-8edb-514ff09b7a06.gif" />
 
@@ -9,11 +9,13 @@
 
 ---
 
+### 🎓 Final-year MCA student specializing in **Full Stack .NET Development**
+
 ### 🌱 I'm currently learning **ASP.NET Core 8**, **Entity Framework Core**, and **Microservices**
 
 ### 👯 I'm looking to collaborate on **Full Stack .NET Projects**
 
-### 🤝 I'm seeking help with **Cloud Architecture & Scalable APIs**
+### 🤝 I'm open to entry-level roles & opportunities as a **Full Stack .NET Developer**
 
 ### 👨‍💻 Check out my projects on [Portfolio](https://github.com/Anand9899/Portfolio)
 
@@ -116,6 +118,6 @@
 ## GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Anand9899&show_icons=true&locale=en&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Anand9899&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anand9899&show_icons=true&locale=en)
 
 ---
