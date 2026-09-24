@@ -118,11 +118,9 @@
 ## GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anand9899&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Anand9899" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anand9899&show_icons=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="195" src="https://streak-stats.demolab.com/?user=Anand9899" alt="GitHub Streak" />
 </p>
 
 ---
