@@ -4,7 +4,9 @@
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/54101509/214411251-5f098de5-52e5-4a1f-8edb-514ff09b7a06.gif" />
 
 <p align="">
-  <img src="https://komarev.com/ghpvc/?username=Anand9899&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Anand9899">
+    <img src="https://hits.sh/github.com/Anand9899.svg?label=Profile%20views&color=0e75b6" alt="Profile views" />
+  </a>
 </p>
 
 ---
